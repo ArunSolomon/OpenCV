@@ -19,6 +19,7 @@ def change_res(width, height):
 
 # make_480p()
 make_720p()
+# change_res(1920, 1080)
 
 while(True):
     # Capture Frame By Frame
